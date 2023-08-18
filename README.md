@@ -5,7 +5,6 @@
 ## Дмитрий Демаков
 - [LinkedIn](https://www.linkedin.com/in/дмитрий-демаков-565656)    
 - Telegram - @demakovd
-- [Обо мне](https://github.com/halfnoob-halfpro/Portfolio/main/README.md)
 
 ## Портфолио проектов
    
