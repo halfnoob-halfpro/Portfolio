@@ -21,5 +21,3 @@
    
 ---    
 
-
-[Назад к оглавлению](https://github.com/halfnoob-halfpro/Portfolio/blob/main/README.md)
