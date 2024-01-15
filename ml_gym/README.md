@@ -1,5 +1,5 @@
 # Прогнозирование вероятности оттока клиентов
-`Python` `Pandas` `Matplotlib` `SciPy` `A/B-тестирование` `Проверка статистических гипотез`   
+`Python` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `SciPy` `Проверка статистических гипотез` `Машинное обучение` `Кластеризация`   
 
 ## Описание проекта   
 
@@ -39,5 +39,5 @@
 - `Churn` — факт оттока в текущем месяце.    
 
 ## Используемые библиотеки:
-`pandas` `numpy` `matplotlib` `scipy` `datetime`
+`pandas` `numpy` `matplotlib` `sklearn` `scipy`
 
