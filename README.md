@@ -3,7 +3,7 @@
 ## Аналитик данных   
 
 ### Дмитрий Демаков
-- Telegram - @demakovd
+- Telegram - [@demakovd](https://t.me/demakovd )
    
 ---   
    
