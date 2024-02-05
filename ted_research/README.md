@@ -1,8 +1,8 @@
-# Исследование данных о конференциях TED  
+# Исследование истори TED-конференции  
 `Tableau` `Постороение дашбордов`
 
 ## Пороект на сайте Tableau:
-    https://public.tableau.com/app/profile/dmitry.demakov/viz/TED_research/TED-
+    [Исследование истори TED-конференции](https://public.tableau.com/app/profile/dmitry.demakov/viz/TED_research/TED-)
 
 ## Описание проекта   
 
