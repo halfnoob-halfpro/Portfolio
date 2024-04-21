@@ -1,5 +1,5 @@
 # Аналитика данных компании Gectaro
-`Python` `Pandas` `Matplotlib` `Seaborn` `Plotly` `SciPy` `Проверка статистических гипотез`
+`Python` `Pandas` `Matplotlib` `Seaborn` `SciPy` `Проверка статистических гипотез`
 
 ## Описание проекта   
 
@@ -91,4 +91,4 @@
 - `Billing_is_over` -	 истекла ли оплата	 
 
 ## Используемые библиотеки:
-`pandas` `numpy` `matplotlib` `seaborn` `warnings` `scipy` `datetime` `tqdm` `plotly` `math` `statistics`
+`pandas` `numpy` `matplotlib` `seaborn` `scipy` `datetime` `math` `statistics` `phik`
